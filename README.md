@@ -22,11 +22,19 @@
 ## Швидкий запуск
 
 1. Відкрийте термінал і перейдіть у папку з проєктом `Practise2`:
+
    ```bash
    cd Practise2
+   ```
+
 2. Оберіть потрібний застосунок:
-```bash
-cd Task1_LeapYearChecker
+
+   ```bash
+   cd Task1_LeapYearChecker
+   ```
+
 3. Запустіть програму командою:
-```bash
-dotnet run
+
+   ```bash
+   dotnet run
+   ```
