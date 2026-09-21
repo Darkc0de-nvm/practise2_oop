@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Task1_LeapYearChecker/Task1_LeapYearChecker.csproj" />
+  <Project Path="Task2_NumericTriangle/Task2_NumericTriangle.csproj" />
+  <Project Path="Task3_MillionaireGame/Task3_MillionaireGame.csproj" />
+  <Project Path="Task4_Calculator/Task4_Calculator.csproj" />
+</Solution>
