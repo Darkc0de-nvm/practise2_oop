@@ -1,7 +1,7 @@
 ﻿# Task 4: Calculator
 
-![C#](https://img.shields.io/badge/C%23-12.0-239120?style=flat&logo=csharp)
-![Console](https://img.shields.io/badge/Console Application-4D4D4D?style=flat&logo=windows terminal)
+![C#](https://img.shields.io/badge/C%23-13-512BD4?style=flat&logo=csharp&logoColor=white)
+![Console Application](https://img.shields.io/badge/Console_Application-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
 
 Консольний калькулятор простих математичних виразів, який парсить введений рядок та обчислює результат із дотриманням математичного пріоритету операторів (множення та ділення виконуються раніше за додавання та віднімання).
 
@@ -44,8 +44,13 @@
 ## Запуск (через CLI)
 
 1. Відкрийте термінал і перейдіть у папку з проєктом `Task4_Calculator`:
+
    ```bash
    cd Task4_Calculator
+   ```
+
 2. Запустіть програму командою:
-```bash
-dotnet run
+
+   ```bash
+   dotnet run
+   ```

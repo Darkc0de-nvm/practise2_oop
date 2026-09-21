@@ -1,7 +1,7 @@
 ﻿# Task 1: Leap Year Checker
 
-![C#](https://img.shields.io/badge/C%23-12.0-239120?style=flat&logo=csharp)
-![Console](https://img.shields.io/badge/Console Application-4D4D4D?style=flat&logo=windows terminal)
+![C#](https://img.shields.io/badge/C%23-13-512BD4?style=flat&logo=csharp&logoColor=white)
+![Console Application](https://img.shields.io/badge/Console_Application-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
 
 Консольний застосунок для швидкої перевірки року на високосність за григоріанським календарем.
 
@@ -35,8 +35,13 @@
 ## Запуск (через CLI)
 
 1. Відкрийте термінал і перейдіть у папку з проєктом `Task1_LeapYearChecker`:
+
    ```bash
    cd Task1_LeapYearChecker
+   ```
+
 2. Запустіть програму командою:
-```bash
-dotnet run
+
+   ```bash
+   dotnet run
+   ```

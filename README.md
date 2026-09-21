@@ -1,7 +1,7 @@
 # C# Basics — Практична робота #2
 
-![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?style=flat&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-12.0-239120?style=flat&logo=csharp)
+![.NET](https://img.shields.io/badge/-10.0-512BD4?style=flat&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-13-512BD4?style=flat&logo=csharp&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
 Пак консольних застосунків на C#, який включає базові алгоритмічні задачі, консольну гру та калькулятор із пріоритетом операцій.
